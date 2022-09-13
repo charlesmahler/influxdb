@@ -1,6 +1,7 @@
 # InfluxDB
-![Logo](assets/influxdb-logo.png "logo")
-
+<div align="center">
+  <img width="600" src="assets/influxdb-logo.png" alt="InfluxDB Logo">
+</div>
 
 <p align="center">
   <a href="https://circleci.com/gh/influxdata/influxdb">
